@@ -29,3 +29,23 @@ padding: 40px 15px;
 text-align: left;
 margin-left: -28%;
 }
+
+body{
+ background-color:#ADD8E6; 
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+.text{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+body{
+ background-color:#ADD8E6; 
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+.text{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
