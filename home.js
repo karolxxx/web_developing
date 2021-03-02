@@ -13,7 +13,7 @@ link5.addEventListener("mouseover", function(){
 	
 })
 link5.addEventListener("mouseout", function(){
-	this.style.color="white"
+	this.style.color="white"  
 	
 })
 var link = document.getElementById=("link6")

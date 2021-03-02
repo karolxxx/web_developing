@@ -12,7 +12,7 @@ link5.addEventListener("mouseover", function(){
 	this.style.color="red"
 	
 })
-link5.addEventListener("mouseout", function(){
+link5.addEventListener("mouseout", function(){ 
 	this.style.color="white"
 	
 })
