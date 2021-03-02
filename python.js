@@ -25,4 +25,4 @@ link6.addEventListener("mouseout", function(){
 	this.style.color="white"
 	
 
-})
+}) 
