@@ -1,7 +1,7 @@
 
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap'); /*Roboto font*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap'); /*DotGothic16 font*/
 body{
     background-color:#ADD8E6; 
    }
@@ -29,7 +29,6 @@ color: white;
 margin-left: 15px;
 }
 h1{
-
 text-align: center;
 font-size: 4em;
 font-family: sans-serif;
