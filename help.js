@@ -183,3 +183,30 @@ image6.addEventListener("mouseout", function(){
 	this.height="100"
 })
 
+var link = document.getElementById=("link1")
+link1.addEventListener("mouseover", function(){
+	this.style.color="red"
+	
+})
+link1.addEventListener("mouseout", function(){
+	this.style.color="white"
+	
+})
+var link = document.getElementById=("link2")
+link2.addEventListener("mouseover", function(){
+	this.style.color="red"
+	
+})
+link2.addEventListener("mouseout", function(){
+	this.style.color="white"
+	
+})
+var link = document.getElementById=("link3")
+link3.addEventListener("mouseover", function(){
+	this.style.color="red"
+	
+})
+link3.addEventListener("mouseout", function(){
+	this.style.color="white"
+	
+})
