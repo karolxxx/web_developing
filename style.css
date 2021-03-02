@@ -5,29 +5,28 @@
 body{
     background-color:#ADD8E6; 
    }
-.text{
+.navigationstab{
     font-family: 'Roboto', sans-serif;
     text-align: center;
-    font-size: 2em;
+    font-size: 4em;
 }
 .navigations{
 background-color: grey;
 display: flex;
-margin-top: -19px;
+margin-top: -25px;
 margin-right: -10px;
-}
-.logo{
-display: block;
-margin-left: -29%;
+margin-left: -10px;
 }
 .text2{
 font-family: 'Roboto', sans-serif;
 text-align:left;
-font-size:  2em;
+font-size:3em;
 word-spacing: 1rem;
 position: relative;
-padding: 40px 15px;
 text-align: left;
-margin-left: -5em;
+margin-left: 1em;
 color: white;
+margin-left: 15px;
+
+
 }
