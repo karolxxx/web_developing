@@ -1,0 +1,51 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+body{
+    background-color:#ADD8E6; 
+   }
+.text{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 2em;
+}
+.navigations{
+background-color: grey;
+display: flex;
+margin-top: -19px;
+margin-right: -10px;
+}
+.logo{
+display: block;
+margin-left: -29%;
+}
+.text2{
+font-family: 'Roboto', sans-serif;
+text-align:left;
+font-size:  1em;
+word-spacing: 1rem;
+position: relative;
+padding: 40px 15px;
+text-align: left;
+margin-left: -28%;
+}
+
+body{
+ background-color:#ADD8E6; 
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+.text{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+body{
+ background-color:#ADD8E6; 
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+.text{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
