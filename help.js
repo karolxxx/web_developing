@@ -1,6 +1,7 @@
 
 
 
+
 function imagefunction() {alert('im var_syn.... Hello')}
 function imageFunction(){alert('im skinypig...Hello')}
 function IMAGEFUNCTION(){alert('im gbourgeo...Hello')}
@@ -209,4 +210,6 @@ link3.addEventListener("mouseover", function(){
 link3.addEventListener("mouseout", function(){
 	this.style.color="white"
 	
+
 })
+
