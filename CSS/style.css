@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap'); /*Roboto font*/
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap'); /*DotGothic16 font*/
 body{
-    background-color:#ADD8E6; 
+    background-color:#e6ffff;
    }
 .navigationstab{
     font-family: 'Roboto', sans-serif;
@@ -11,7 +11,7 @@ body{
     font-size: 4em;
 }
 .navigations{
-background-color: grey;
+background-color: #2196F3;
 display: flex;
 margin-top: -25px;
 margin-right: -10px;
