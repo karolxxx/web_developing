@@ -5,18 +5,42 @@
 body{
     background-color:#e6ffff;
    }
-.navigationstab{
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 8vh;
+    background: #2196f3;
     font-family: 'Roboto', sans-serif;
-    text-align: center;
-    font-size: 4em;
 }
-.navigations{
-background-color: #2196F3;
-display: flex;
-margin-top: -25px;
-margin-right: -10px;
-margin-left: -10px;
+
+.navigationstab {
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 20px;
 }
+
+.navigations {
+    display: flex;
+    justify-content: space-around;
+    width: 45%;
+}
+
+.navigations li {
+    list-style: none;
+}
+
+.navigations a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
 .text2{
 font-family: 'Roboto', sans-serif;
 text-align:left;
