@@ -186,29 +186,29 @@ image6.addEventListener("mouseout", function(){
 
 var link = document.getElementById=("link1")
 link1.addEventListener("mouseover", function(){
-	this.style.color="red"
+	this.style.color="rgb(87, 189, 189)"
 	
 })
 link1.addEventListener("mouseout", function(){
-	this.style.color="white"
+	this.style.color="rgb(59, 63, 71)"
 	
 })
 var link = document.getElementById=("link2")
 link2.addEventListener("mouseover", function(){
-	this.style.color="red"
+	this.style.color="rgb(87, 189, 189)"
 	
 })
 link2.addEventListener("mouseout", function(){
-	this.style.color="white"
+	this.style.color="rgb(59, 63, 71)"
 	
 })
 var link = document.getElementById=("link3")
 link3.addEventListener("mouseover", function(){
-	this.style.color="red"
+	this.style.color="rgb(87, 189, 189)"
 	
 })
 link3.addEventListener("mouseout", function(){
-	this.style.color="white"
+	this.style.color="rgb(59, 63, 71)"
 	
 
 })
